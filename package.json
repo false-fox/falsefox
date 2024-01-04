@@ -6,6 +6,9 @@
   "scripts": {
     "test": "node test/test.js"
   },
+  "repository": {
+    "url": "https://github.com/false-fox/falsefox.git"
+  },
   "author": "falsefox",
   "license": "GPL-3.0"
 }
